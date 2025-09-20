@@ -1,1 +1,1 @@
-
+In this exercise I did an in deep analysis of all international tournaments played from 1872 to today. In the .ipynb document you can find all the code and a brief explanation of the analysis carried out. Then in .pdf there is a report with a deeper analysis of the results obtained. At the end we carried out a comparison between different models (Categorical NB, Random Forest, Gaussian NB and Logistic regression) to predict the outcome of the games and a brief graph analysis.
