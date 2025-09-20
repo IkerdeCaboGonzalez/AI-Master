@@ -1,1 +1,1 @@
-Some of the projects carried out in my AI master.
+Works carried out during my AI master.
